@@ -1,2 +1,3 @@
 # Simple-Delivery-Bot
-Simple Tg(Telegram)Delivery bot in Uz language
+Simple Tg(Telegram)Delivery bot in Uzbek language.
+Sodda telegram bot
